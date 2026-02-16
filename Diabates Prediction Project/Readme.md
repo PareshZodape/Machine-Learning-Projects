@@ -1,12 +1,15 @@
 DIABETES PREDICTION
 
-One-Line Overview
+# One-Line Overview :
+
 A smart system that employs Machine Learning (SVM) in analyzing medical data to predict whether a patient has diabetes.
 
-Objective
+# Objective : 
+
 The objective of this project is to develop a system that can assist a doctor in identifying whether a patient has diabetes by looking for patterns in the patient’s health statistics.
 
-Technical Flow
+# Technical Flow :
+
 - Data: Load patient data (Glucose, BMI, Age, etc.).
 
 - Clean: Scale the numbers so they are all in a similar range (Standardization).
