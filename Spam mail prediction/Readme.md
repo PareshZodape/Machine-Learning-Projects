@@ -31,3 +31,26 @@ A command used on training data to both learn the patterns (fit) and apply the n
 
 #  5. transform
 A command used on test or new data to convert text into numbers using the rules already established during the training phase. It ensures the model processes new information exactly the same way it processed its study materials.
+
+
+
+# EXAMPLE 
+# Spam Mail (Unwanted / Fraudulent Email)
+Subject: 🎉 Congratulations! You Have Won ₹10,00,000 🎉
+Dear User,
+You have been selected as the lucky winner of our mega prize draw!
+To claim your reward, click the link below and enter your bank details:
+👉 www.claim-your-prize-now.com
+Hurry! This offer expires in 24 hours.
+Best Regards,
+Prize Team
+
+
+# Ham Mail (Genuine / Useful Email)
+Subject: Meeting Schedule for Project Discussion
+Hi Paresh,
+This is to remind you about our project discussion meeting scheduled for tomorrow at 11:00 AM in the conference room.
+Please let me know if you are available.
+Thanks,
+Rahul
+Project Manager
