@@ -18,4 +18,4 @@ To build a robust classification system that can accurately distinguish rare fra
 
 - **Fraud Identification:** Minimizes "False Negatives" (missed frauds) to protect financial assets.
 
-  **Operational Efficiency:** Provides a clear confusion matrix that helps stakeholders understand the trade-off between catching fraud and annoying legitimate customers with false alarms.
+- **Operational Efficiency:** Provides a clear confusion matrix that helps stakeholders understand the trade-off between catching fraud and annoying legitimate customers with false alarms.
