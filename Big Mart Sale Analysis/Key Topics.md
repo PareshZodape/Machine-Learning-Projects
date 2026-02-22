@@ -23,3 +23,9 @@ The fraction of features (columns) used for each tree. Similar to subsampling, t
 
 - **reg_alpha:**
 L1 regularization (Lasso). It penalizes the weight of features, often forcing unimportant feature weights to zero, effectively performing feature selection.
+
+- **reg_lambda:**
+L2 regularization (Ridge). It penalizes the square of the weights, making the model more conservative and smoothing out the predictions.
+
+- **random_state:**
+A seed that ensures the results are reproducible. If you use the same number, you will get the exact same model every time you run the code.
