@@ -18,3 +18,8 @@ Limits how deep each tree can grow. Higher depth allows the model to learn compl
 - **subsample:**
 The fraction of training data randomly sampled for each tree. Setting this to 0.8 means each tree uses 80% of the data, which adds randomness and prevents overfitting.
 
+- **colsample_bytree:**
+The fraction of features (columns) used for each tree. Similar to subsampling, this helps prevent one dominant feature from over-influencing the model.
+
+- **reg_alpha:**
+L1 regularization (Lasso). It penalizes the weight of features, often forcing unimportant feature weights to zero, effectively performing feature selection.
